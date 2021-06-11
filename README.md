@@ -1,6 +1,6 @@
-# BEDU Santander - Etapa 3
+# BEDU Santander - Prototype Day
 
-Etapa 3 del curso de Data Science en BEDU Santander
+Proyecto del Prototype Day del curso de Data Science en BEDU Santander
 
 ## Integrantes
 - Barbachano Chiu Moisés Oswaldo
