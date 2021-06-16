@@ -21,7 +21,7 @@ Descarga los archivos CSV y guárdalos en esta carpeta.
 
 Antes de ejecutar el notebook "Proy-LenguajeNatural.ipynb" debe hacer los siguientes pasos:
 
-1. Descargar todos los archivos csv de Kaggle y guardarlos en esta carpeta.
-2. Correr el notebook "Preprocesamiento.ipynb" por completo, este generará un nuevo archivo llamado "df_complete.csv".
+1. Descargar todos los archivos csv de Kaggle y guardarlos en la carpeta "dataset".
+2. Correr el notebook "Preprocesamiento.ipynb" por completo, este generará un nuevo archivo llamado "df_complete.csv" en la carpeta actual.
 
 NOTA: Recuerda instalar las librerias necesarias antes de correr los notebooks.

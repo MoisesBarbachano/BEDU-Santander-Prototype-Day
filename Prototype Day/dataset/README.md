@@ -1,0 +1,1 @@
+Carpeta usada para guardar los archivos del dataset
