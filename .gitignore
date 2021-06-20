@@ -2,3 +2,5 @@
 Prototype Day/dataset/*.csv
 Prototype Day/df_complete.csv
 Prototype Day/translation/olist_order_reviews_dataset.csv
+Prototype Day/translation/*.json
+Prototype Day/plots/*.svg
